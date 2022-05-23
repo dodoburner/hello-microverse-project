@@ -2,8 +2,7 @@
 
 # Hello Microverse Project
 
-> This is my first Microverse project in which I will demonstrate how to use GitHub flow and a linter.
-
+> This is my first Microverse project in which I will demonstrate how to use GitHub flow and a linter. There will also be some basic HTML and CSS.
 
 ## Built With
 
@@ -17,7 +16,7 @@ These are the prerequisites to get a local copy up and running.
 
 - Have Git installed on your pc.
 - Know how to add linters.
-
+- Know basic HTML and CSS.
 
 ## Authors
 
